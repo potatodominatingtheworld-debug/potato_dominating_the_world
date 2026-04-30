@@ -1,1 +1,8 @@
-# potato_dominating_the_world
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+<p align="center">
+  <img src="YOUR_CAT_GIF" width="180"/>
+</p>
+
+<p align="center">
+  💬 "hey bestie, thanks for visiting my profile!!"
+</p>
